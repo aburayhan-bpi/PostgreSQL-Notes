@@ -208,4 +208,4 @@ WHERE grade = 'C' AND country = 'Malaysia';
 **Abu Rayhan**  
 Junior Frontend Developer | MERN Stack Developer  
 Email: aburayhan.bpi@gmail.com  
-Location: Bangladesh
+Location: Bogura, Bangladesh
